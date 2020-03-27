@@ -8,4 +8,4 @@ In this task, I implement a bi-LSTM sequence-to-sequence with attention model to
 
 ## Credits
 
-This task and workflow is designed by my instructor [Miikka Silfverberg](https://mpsilfve.github.io/) of my Morphology class COLX 525 in UBC.
+This task and workflow is designed and mentored by my instructor [Miikka Silfverberg](https://mpsilfve.github.io/) of my Morphology class COLX 525 in UBC.
