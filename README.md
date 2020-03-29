@@ -2,6 +2,10 @@
 
 This repo includes NLP tasks that I have used deep learning models to solve. 
 
+Tools: PyTorch
+
+Device: CPU and GPU (Google Colab)
+
 ## Categories
 
 [POS Tagger](https://github.com/krieya/Deep-Learning-Models/tree/master/POS_Tagger)
