@@ -3,7 +3,7 @@
 
 ## Description
 
-1. Machine Transltion
+1. Machine Translation
 
     The goal of this task is building a machine translation model to translate sentence in Portugese to English. 
     
