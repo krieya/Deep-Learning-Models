@@ -31,6 +31,7 @@
     | optimizer | Adam, SGD | Adam |
     | learning rate | [0.0001 0.0015] | 0.0011 |
     | weight decay | [0.00001 0.0001], None | None |
+    | loss function | cross-entropy | cross-entropy |
     
     Best BLEU-4 score in Validation set: 0.2770
 
@@ -61,6 +62,7 @@
     | optimizer | Adam, SGD | Adam |
     | learning rate | [0.0001 0.0015] | 0.001 |
     | weight decay | [0.00001 0.0001], None | None |
+    | loss function | cross-entropy | cross-entropy |
     
     Best BLEU-4 score in Validation set: 0.2530
 
