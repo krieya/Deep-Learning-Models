@@ -19,7 +19,6 @@
 
     | Hyperparameters | Range | Best |
     |-----------------|-------|------|
-    | Model | `Transformer` `Seq2Seq + dot attn` `Seq2Seq + addi attn` | `Seq2Seq + dot attn` |
     | train batch size | 16, 32, 64 | 16 |
     | val/test batch size | 64, 128, 256 | 256 |
     | pre-trained embeddings | None, fasttext, GloVe, Ptwiki, Google | None |
